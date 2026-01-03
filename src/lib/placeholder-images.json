@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "lecture-hall-1",
+      "description": "A modern, large lecture hall with tiered seating and a large projection screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZWN0dXJlJTIwaGFsbHxlbnwwfHx8fDE3NjczODM3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lecture hall"
+    },
+    {
+      "id": "lab-1",
+      "description": "A science lab with workstations, equipment, and stools.",
+      "imageUrl": "https://images.unsplash.com/photo-1604313890727-5542ff314405?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2llbmNlJTIwbGFifGVufDB8fHx8MTc2NzMxMTExOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science lab"
+    },
+    {
+      "id": "seminar-room-1",
+      "description": "A small seminar room with a large table and chairs, suitable for group discussions.",
+      "imageUrl": "https://images.unsplash.com/photo-1517502884422-41eaead166d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtZWV0aW5nJTIwcm9vbXxlbnwwfHx8fDE3Njc0MTY3NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "meeting room"
+    },
+    {
+      "id": "lecture-hall-2",
+      "description": "A bright lecture hall with wooden accents and comfortable seating.",
+      "imageUrl": "https://images.unsplash.com/photo-1643199011202-ef2d00dd8d60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhdWRpdG9yaXVtJTIwY2xhc3Nyb29tfGVufDB8fHx8MTc2NzQxNjc1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "auditorium classroom"
+    },
+    {
+      "id": "lab-2",
+      "description": "A computer lab with rows of desktops.",
+      "imageUrl": "https://images.unsplash.com/photo-1553632168-eb4237620881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjBsYWJ8ZW58MHx8fHwxNzY3NDE2NzU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "computer lab"
+    },
+    {
+      "id": "seminar-room-2",
+      "description": "A collaborative space with flexible seating and whiteboards.",
+      "imageUrl": "https://images.unsplash.com/photo-1568992688243-52608227497d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2xsYWJvcmF0aXZlJTIwd29ya3NwYWNlfGVufDB8fHx8MTc2NzM5MjE1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "collaborative workspace"
+    }
+  ]
+}
