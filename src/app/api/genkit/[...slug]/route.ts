@@ -2,7 +2,7 @@
 import { genkit } from "genkit";
 import { googleAI } from "@genkit-ai/google-genai";
 import { NextRequest } from "next/server";
-import {POST
+import {POST,
   createApp,
   toExpress,
 } from "@genkit-ai/next";
